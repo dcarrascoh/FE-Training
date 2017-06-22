@@ -1,0 +1,28 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Carrasco",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.12",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-cache": "^0.4.6",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^3.3.0",
+    "gulp-jshint": "^2.0.4",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.0",
+    "gulp-useref": "^3.1.2",
+    "jshint": "^2.9.4"
+  },
+  "dependencies": {
+    "handlebars": "^4.0.10"
+  }
+}
